@@ -23,24 +23,24 @@
 
 </ro>
 <en>
-  <NewsH1> Basis of Neural Networks</NewsH1>
-  <NewsT1>Mic ghid de intelegere a retelelor neuronale</NewsT1>
-  <NewsS1>Definitii si exemple impreuna cu un videoclip explicativ</NewsS1>
-  <NewsText1> Acest articol contine tot ceea ce trebuie sa stiti despre retele neuronale\n
-             astfel incat viitoarele discutii pe marginea acestui subiect sa aiba sens,\n
-             pe langa explicatiile din videoclip. Apasati pe buton pentru a obtine accesul la un document detaliat.</NewsText1>
-  <NewsB1> Vezi mai mult </NewsB1>
-  <NewsH2>Ce este un RTGS</NewsH2>
+  <NewsH1>The Basis of Neural Networks"</NewsH1>
+  <NewsT1>Small guide for understanding neural networks</NewsT1>
+  <NewsS1>Definitions and examples along with an instructive video</NewsS1>
+  <NewsText1>This article has everithing you need to know about newural networks\n
+    so that further discussions will have sense,\n
+    along with the explications from the video. Press the button to access the detailed article.</NewsText1>
+  <NewsB1>Learn more</NewsB1>
+  <NewsH2>What is an RTGS</NewsH2>
   <NewsT2>RTGS</NewsT2>
-  <NewsS2>Ghid explicativ al RTGS</NewsS2>
-  <NewsText2>Acest articol contine tot ceea ce trebuie sa stiti despre un RTGS\n
-             - Real Time Gross Settlement</NewsText2>
-  <NewsB2>Vezi mai mult</NewsB2>
-  <NewsH3>Inteligenta Artificiala</NewsH3>
-  <NewsT3>Ce este Inteligenta Artificiala?</NewsT3>
-  <NewsS3>Definire, exemple, evolutie.</NewsS3>
-  <NewsText3>Articol si videoclip continand informatii utile despre inteligenta artificiala,\n
-             evolutia acesteia in timp dar si diverse utilizari.</NewsText3>
-  <NewsB3>Vezi mai mult</NewsB3>
+  <NewsS2>Explicative guide of RTGS</NewsS2>
+  <NewsText2>This article has everithing you need to know about a RTGS\n
+    - Real Time Gross Settlement</NewsText2>
+  <NewsB2>Learn more</NewsB2>
+  <NewsH3>Artificial Intelligence</NewsH3>
+  <NewsT3>What is Artificial Intelligence?</NewsT3>
+  <NewsS3>Definition, Explication, Evolution.</NewsS3>
+  <NewsText3>Article containing useful information about artificial intelligence,\n
+    real time evolution of it along with usage</NewsText3>
+  <NewsB3>Learn more</NewsB3>
 </en>
 </languages>
