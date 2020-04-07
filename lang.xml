@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<languages>
 <ro>
   <NewsH1> Bazele Retelelor Neuronale</NewsH1>
   <NewsT1>Mic ghid de intelegere a retelelor neuronale</NewsT1>
@@ -42,3 +43,4 @@
              evolutia acesteia in timp dar si diverse utilizari.</NewsText3>
   <NewsB3>Vezi mai mult</NewsB3>
 </en>
+</languages>
